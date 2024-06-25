@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  font-size:3vw;
+  min-height:50vh;
+  margin:1;
+}
+table {
+  border-collapse: collapse;
+  margin: 1px;
+}
+table,tr,td,th {
+  border:1px solid 
+#aaa;
+  padding:1vw 5vw;
+  text-align: center;
+}
